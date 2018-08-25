@@ -1,0 +1,35 @@
+{
+  "name": "@virtuous/eslint-config",
+  "version": "0.0.0",
+  "description": "The Virtuous eslint config for javascript projects.",
+  "main": "index.js",
+  "license": "MIT",
+  "contributors": [
+    "Richard Gorman <richardgorman@outlook.com> (https://github.com/richardgorman)",
+    "Florian Müller <florian.mueller81@gmx.de> (https://github.com/devbucket)"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "virtuous",
+    "javascript",
+    "styleguide"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "eslint": "^5.3.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-extra-rules": "^0.0.0-development",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0"
+  },
+  "peerDependencies": {
+    "babel-core": "6",
+    "eslint": "5"
+  }
+}
