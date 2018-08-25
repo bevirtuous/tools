@@ -1,6 +1,6 @@
 {
   "name": "@virtuous/unit-tests",
-  "version": "0.0.0",
+  "version": "2.0.0-beta.1",
   "description": "Virtuous' unit test suite using Jest and Enzyme.",
   "main": "index.js",
   "license": "MIT",
