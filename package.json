@@ -4,6 +4,20 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^2.11.0"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "coveralls": "^3.0.2",
+    "enzyme": "^3.5.0",
+    "eslint": "^5.4.0",
+    "jest": "^23.5.0",
+    "lerna": "^2.11.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:dev": "jest --watch",
+    "cover": "jest --coverage"
   }
 }
