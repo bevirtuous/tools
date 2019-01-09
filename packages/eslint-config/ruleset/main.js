@@ -43,6 +43,7 @@ module.exports = {
         array: 'Array',
       },
     }],
+    'object-curly-newline': 0,
   },
   settings: {
     'import/extensions': ['.js', '.json', '.jsx'],
