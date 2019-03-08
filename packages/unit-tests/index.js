@@ -26,5 +26,7 @@ module.exports = {
   setupFiles: [
     '@virtuous/unit-tests/config/test-setup.js',
   ],
-  setupTestFrameworkScriptFile: '@virtuous/unit-tests/config/framework-setup.js',
+  setupFilesAfterEnv: [
+    '@virtuous/unit-tests/config/framework-setup.js',
+  ],
 };

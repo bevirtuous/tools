@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "babel-core": "^7.0.0-bridge.0",
-    "babel-jest": "^23.6.0",
+    "babel-jest": "^24.3.1",
     "enzyme-adapter-react-16": "~1.10.0",
     "enzyme-to-json": "~3.3.4",
     "identity-obj-proxy": "~3.0.0",
@@ -27,14 +27,14 @@
     "@babel/preset-env": "^7.3.4",
     "@babel/preset-react": "^7.0.0",
     "enzyme": "^3.9.0",
-    "jest": "^23.6.0",
+    "jest": "^24.3.1",
     "react": "~16.8.4",
     "react-dom": "~16.8.4"
   },
   "peerDependencies": {
     "@babel/core": "7",
     "enzyme": "3",
-    "jest": "23",
+    "jest": "24",
     "react": "16",
     "react-dom": "16"
   }
