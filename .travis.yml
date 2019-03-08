@@ -1,12 +1,7 @@
 language: node_js
 node_js:
-- 10
-cache:
-  directories:
-    - node_modules
-script: yarn run cover --maxWorkers=4 --ci
-# Send coverage report to coveralls.io
-after_script: cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
+- "10"
+script: jest --coverage --coverageReporters=text-lcov | coveralls
 notifications:
   slack: virtuous-coding:qsxYU1TMf0AAzcCALg4C8t17
   email: false
