@@ -1,4 +1,9 @@
-# Virtuous' unit test suite
+# Virtuous' Unit Test Suite
+
+[![Build Status](https://travis-ci.org/bevirtuous/tools.svg?branch=master)](https://travis-ci.org/bevirtuous/tools)
+[![Coverage Status](https://coveralls.io/repos/github/bevirtuous/tools/badge.svg?branch=master)](https://coveralls.io/github/bevirtuous/tools?branch=master)
+[![GitHub (pre-)release](https://img.shields.io/github/release/bevirtuous/tools/all.svg)](https://github.com/bevirtuous/tools/releases)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)
 
 This configuration uses [Jest](https://facebook.github.io/jest/) for running the tests.
 It is only an extension of the default Jest configuration.
@@ -28,10 +33,10 @@ _**NOTE**: It is considered a best practice to create `__tests__` folder(s) **AN
 
 You have two options of how to create a configuration for Jest:
 
-- You can create your own configuration following the [Jest Documentation](https://facebook.github.io/jest/docs/en/getting-started.html)
-- You can use Virtuous' pre-defined configuration and extend it as you wish.
+* You can create your own configuration following the [Jest Documentation](https://facebook.github.io/jest/docs/en/getting-started.html)
+* You can use Virtuous' pre-defined configuration and extend it as you wish.
 
-__NOTE: Using and extending the Virtuous configuration is the preferred way!__
+**NOTE: Using and extending the Virtuous configuration is the preferred way!**
 
 ### 1. Using Virtuous' configuration
 
