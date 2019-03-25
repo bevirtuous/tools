@@ -1,0 +1,17 @@
+{
+  "name": "@virtuous/i18n",
+  "version": "2.0.0",
+  "description": "Virtuous' i18n package for all purposes.",
+  "main": "index.js",
+  "license": "MIT",
+  "contributors": [
+    "Richard Gorman <richardgorman@outlook.com> (https://github.com/richardgorman)",
+    "Florian Müller <flomueller1981@gmail.com> (https://github.com/devbucket)"
+  ],
+  "keywords": [
+    "i18n",
+    "javscript",
+    "localization",
+    "virtuous"
+  ]
+}

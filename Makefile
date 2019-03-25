@@ -1,4 +1,4 @@
-PACKAGES = eslint-config unit-tests
+PACKAGES = eslint-config unit-tests i18n
 
 clean:
 		find . -name "*error.log" -type f -delete
