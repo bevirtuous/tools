@@ -5,5 +5,6 @@
 [![GitHub (pre-)release](https://img.shields.io/github/release/bevirtuous/tools/all.svg)](https://github.com/bevirtuous/tools/releases)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)
 
-This respository holds a collection of tools and helpers for Javascript appliactions.
-The can be used individually and are used inside various other Virtuous projects.
+This respository holds a collection of tools and helpers for Javascript applications.
+
+They can be used individually and are used inside various other Virtuous projects.
