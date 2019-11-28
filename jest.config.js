@@ -1,7 +1,8 @@
 const defaultConfig = require('@virtuous/unit-tests');
 
-module.exports = Object.assign({}, defaultConfig, {
+module.exports = {
+  ...defaultConfig,
   collectCoverageFrom: [
     'packages/**/*.{js,jsx}',
   ],
-});
+};
