@@ -1,6 +1,6 @@
 {
   "name": "@virtuous/eslint-config",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "The Virtuous eslint config for javascript projects.",
   "main": "index.js",
   "license": "MIT",
@@ -18,7 +18,7 @@
   ],
   "devDependencies": {
     "@babel/core": "^7.7.4",
-    "@virtuous/unit-tests": "2.0.0",
+    "@virtuous/unit-tests": "2.1.0",
     "eslint": "^6.7.1"
   },
   "dependencies": {
